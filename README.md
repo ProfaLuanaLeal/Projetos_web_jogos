@@ -1,6 +1,6 @@
 # Mostra Amazônia Criativa
 
-Site da mostra de projetos da disciplina **Programação Web para Jogos**, desenvolvido por alunos do Curso Técnico em Programação.
+Site da mostra de projetos da disciplina **Programação Web para Jogos**, desenvolvido por alunos do Curso Técnico em Programação Web para Jogos.
 
 ## Acesse o site
 
@@ -48,4 +48,4 @@ O site é publicado automaticamente pelo GitHub Actions sempre que há um novo p
 
 **Profa. Luana Leal**
 
-Curso Técnico em Programação
+Curso Técnico em Programação Web para Jogos
