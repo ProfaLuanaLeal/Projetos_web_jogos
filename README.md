@@ -1,6 +1,6 @@
-# Mostra Amazônia Criativa
+E# Mostra Amazônia Criativa
 
-Site da mostra de projetos da disciplina **Programação Web para Jogos**, desenvolvido por alunos do Curso Técnico em Programação Web para Jogos.
+Site da mostra de projetos da disciplina **Programação Web para Jogos**, desenvolvido por alunos em equipes do Curso Técnico em Programação Web para Jogos.
 
 ## Acesse o site
 
